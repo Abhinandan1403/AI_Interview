@@ -23,8 +23,3 @@ Whether you're preparing for placements, internships, or professional job interv
 🧠 Technical + HR interview support
 💬 Conversational AI responses
 ☁️ Deployed live on Render
-
-
-OpenAI API / Gemini API (update based on your implementation)
-Deployment
-Render
